@@ -18,6 +18,8 @@
             string[] names = new string[5];
             int[] quantity = new int[5];
             string[] names = { "pear"; "sugar")
-        }
+            int[] quantity = { 5; 10;}
+        Console.WriteLine(Inventoryprinter(quantity, names));
+    }
     }
 }
